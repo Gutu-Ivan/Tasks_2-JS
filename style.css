@@ -1,0 +1,22 @@
+.container {
+    margin-top: 20px;
+    border: 1px solid black;
+}
+form {
+    padding: 10px;
+}
+.test, form_element{
+    margin: 0 auto;
+    width: 100px;
+    height: 50px;
+    display: flex;
+}
+.request {
+    margin: 15px auto;
+    width: 230px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 5px;
+}
+button{width: 100px}
+select{width: 140px}
